@@ -1,10 +1,13 @@
 # 최완석의 포트폴리오
 
 ## 📋 1. 기본 정보
+## 👤 Contact
 
-| **이름** | 최완석 |
-| **이메일** | acesnack4950@gmail.com |
-| **GitHub** | @acesnack4950 |
+| 항목     | 내용                                                      |
+| ------ | ------------------------------------------------------- |
+| 이름     | 최완석                                                     |
+| 이메일    | [acesnack4950@gmail.com](mailto:acesnack4950@gmail.com) |
+| GitHub | [@acesnack4950](https://github.com/acesnack4950)        |
 
 ---
 
